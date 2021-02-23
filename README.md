@@ -28,6 +28,7 @@ Adidas Predator, Nike Mercurial, Mizuno Morelia Neo, New Balance Furón, Umbro A
 ## Adidas
 Adidas pone nombre a su versión según el año en que salieron esos botines, por ej. **20+** para los modelos del año 2020 y de la gama más alta y así con las diferentes versiones de cada modelo.
 
+
 ### Modelos:
 - _Adidas X_: Considerada la bota de velocidad, son muy livianas y su estructura de Upper es muy delgada. dando cierta sensación de jugar descalzo. Para pies anchos.
 - _Adidas Némezis_: Son las que usa Messi.
