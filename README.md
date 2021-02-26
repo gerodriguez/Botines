@@ -4,7 +4,10 @@ Información recopilada sobre botines de hoy en día. _`febrero/2021`_
 ## Diccionario:
 - Upper: Parte de arriba del botín que cubre principalmente el empeine y parte superior del pie.
 - Knit: Superficie confeccionada por una sola pieza tejida digitalmente. Ésto permite configurar la ligereza, flexibilidad, porosidad, rugusidad, etc. de las superficies mediante el uso de hilos de distintos materiales, conservando una única pieza. Se usa en la zona externa del botín. La de Adidas se llama PrimeKnit y la de Nike FlyKnit.
-- Grip: Poder de agarre o fricción con la pelota.
+- Grip: Poder de agarre o fricción.
+- Fit: Ajuste del pie dentro del botín.
+- Roll Over: Cuando el pie se desplaza dentro del botín. Sobretodo al frenar y arrancar.
+- Skin: Piel o recubrimiento.
 
 ## General
 Adidas, Puma y Nike dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike tiene 4.
@@ -43,7 +46,7 @@ Las gamas + suelen venir sin cordones (laceless).
 
 ### Modelos:
 - _Adidas X_: Considerada la bota de velocidad, son muy livianas y su estructura de Upper es muy delgada. dando cierta sensación de jugar descalzo. Para pies anchos.
-- _Adidas Némezis_: Son las que usa Messi.
+- _Adidas Némezis_: Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. 
 - _Adidas Predator_: Bota armada. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper el cual promete buen agarre con la pelota. Para pies angostos.
 - _Adidas Copa_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). Para pies anchos.
 
