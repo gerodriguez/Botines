@@ -1,5 +1,5 @@
 # Botines
-Información recopilada sobre botines de hoy en día. _`febrero/2021`_
+Información recopilada sobre botines de hoy en día. _`marzo/2021`_
 
 ## Diccionario:
 - Upper: Parte de arriba del botín que cubre principalmente el empeine y parte superior del pie.
@@ -10,7 +10,7 @@ Información recopilada sobre botines de hoy en día. _`febrero/2021`_
 - Skin: Piel o recubrimiento.
 
 ## General
-Adidas, Puma y Nike dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4.
+[Adidas](#Adidas), [Nike](#Nike) y [Puma](#Puma) dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4.
 
 A modo general las grandes marcas se enfocan en 4 tipos de botines.
 - _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota.
@@ -72,7 +72,7 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 
 ## Nike
 
-Nike dentro de sus 4 gamas ofrece 2 variantes de modelos, las _Superfly_ y las _vapor_. Las Superfly tienen el Dinamic Fit Collar, y las vapor no lo tienen.
+Nike dentro de sus 4 gamas ofrece 2 variantes de modelos, las _Superfly_ y las _vapor_. Las Superfly tienen el Dinamic Fit Collar (son tipo bota), y las vapor no. Las generaciones actuales de Mercurial en 2021 son las Superfly 7 y las vapor 14.
 
 FlyKnit: Tecnología de la carcasa.
 Anticlog: Tratamiento que le hacen a algunas suelas para que el pasto o barro no se le adhiera. 
