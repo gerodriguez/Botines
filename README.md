@@ -13,10 +13,10 @@ Información recopilada sobre botines de hoy en día. _`marzo/2021`_
 [Adidas](#Adidas), [Nike](#Nike) y [Puma](#Puma) dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4.
 
 A modo general las grandes marcas se enfocan en 4 tipos de botines.
-- _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota.
-- _**Botines con Grip**_: Tienen en su upper materiales rugosos que aportan fricción al contacto con el balón, favoreciendo el control de la pelota y los remates con efecto. Las suelas suelen tener tapones cónicos o semicónicos para favorecer los cambios de dirección. Son pensados para jugadores habilidosos.
-- _**Botines armados**_: Tienen una estructura más firme y gruesa, con materiales más resistentes. Mayor peso
-- _**Botines clásicos**_: Brindan buen comfort, comodidad. La mayoría fabricados en cuero. Tienen suelas enteras con tapones cónicos.
+- _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota, pero apuntan a disminuir el peso y dar la sensción de jugar descalzo. Ej: Adidas X, Nike Mercurial.
+- _**Botines de control**_: Para jugadores habilidosos que tienen mucho contacto con la pelota. Tienen en su upper materiales rugosos que aportan buen grip al contacto con la pelota, favoreciendo el control de la pelota y los remates con efecto. Las suelas suelen tener tapones cónicos o semicónicos para favorecer los cambios de dirección. Son pensados para jugadores habilidosos. Ej: Adidas Nemeziz, Nike Phantom.
+- _**Botines armados**_: Tienen una estructura más firme y gruesa, con materiales más resistentes que implican mayor peso. Ej: Adidas Predator, Nike Hipervenom.
+- _**Botines clásicos**_: Brindan buen comfort, comodidad. La mayoría fabricados en cuero dan una sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar. Tienen suelas enteras con tapones cónicos. Ej: Adidas Copa, Nike Tiempo, Mizzuno Morelia
 
 ### Materiales
 Hoy en día la mayoría de los fabricantes hacen botines con mezcla de tejidos de materiales sintéticos que van desarrollando con las diferentes tecnologías que se aplican al botín.
@@ -100,7 +100,7 @@ Dinamic Fit Collar: Alzada de tela tipo media soquete que sale del botín sobre 
 ## Puma
 
 EvoKnit: Hilo elástico de Puma.
-FitZone: Tejido de banda Elástica
+FitZone: Tejido de banda Elástica.
 
 ### Modelos:
 + Future Z: Son los que usa Neymar. Fitzone en el medio del Botín. Suela modular con espina dorsal cruzada, muy reactiva, con tapones semicónicos. Buen grip con la pelota. Cómodas.
