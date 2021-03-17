@@ -40,6 +40,8 @@ Suela Magista: Tapones semicónicos con una zona de rotación.
     + TF: _TURF_. Para pasto sintético corto tipo alfombra 1ra gen. o 2da gen. duros, también se puede usar en piso. Tienen muchos puntos de contacto.
     + IC/IN: _INDOOR_. Suela  lisa para parqué o piso liso, es la típica suela de futsal.
 
+[![Desmarques](https://img.youtube.com/vi/_ZYNtP9ycz0/sddefault.jpg)](https://youtu.be/_ZYNtP9ycz0)
+
 ### Modelos para pies anchos:
 Adidas Copa, Adidas X, Nike Phantom, Puma Future, Puma One, Mizuno Rebula, New Balance Tekela.
 
