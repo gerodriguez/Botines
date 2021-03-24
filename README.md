@@ -58,7 +58,7 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 ### Modelos:
 - _Adidas X_: Botín de velocidad, son muy livianos y su estructura de Upper es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
 - _Adidas Némeziz_: Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos. 
-- _Adidas Predator_: Bota armada. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado dragonskin el cual promete buen agarre con la pelota. Para pies angostos.
+- _Adidas Predator_: Bota armada. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
 - _Adidas Copa_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). Para pies anchos.
 
 > No olvidemos que de cada uno de éstos modelos hay una _versión_ (año en que salió), una _gama_.
@@ -99,13 +99,13 @@ Dinamic Fit Collar: Alzada de tela tipo media soquete que sale del botín sobre 
 
 ## Puma
 
-EvoKnit: Hilo elástico de Puma.
+EvoKnit: Material tejido de hilos del upper.
 FitZone: Tejido de banda Elástica.
 
 ### Modelos:
-+ Future Z: Son los que usa Neymar. Fitzone en el medio del Botín. Suela modular con espina dorsal cruzada, muy reactiva, con tapones semicónicos. Buen grip con la pelota. Cómodas.
-+ Ultra: Reemplazan a Puma One. Son los que usa Agüero y Griezmann. Botín de velocidad. 3 modelos de upper: Hilo, sintetico o cuero.
-+ Future: Buen grip con la pelota. Para pies anchos.
++ Future Z: Botín de control. Son los que usa Neymar. Fitzone en el medio del Botín. Suela modular con espina dorsal cruzada bastante rígida, con tapones semicónicos. Buen grip con la pelota. Cómodas.
++ Ultra: Botín de velocidad. Upper de microfibra. Reemplazan a Puma One. Son los que usa Agüero y Griezmann. 3 modelos de upper: Hilo, sintetico o cuero.
++ Future: Botín armado. Buen grip con la pelota. Para pies anchos.
 + King: Modelo Clásico
 
 
