@@ -34,7 +34,7 @@ Aunque todavía las marcas tienen modelos de cuero ya que da un agarre y comfort
 Suela Magista: Tapones semicónicos con una zona de rotación.
 
   Tipos de Suelas:
-    + SG: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales
+    + SG: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales, muchas tienen tapones intercambiables.
     + AG: _ARTIFICIAL GROUND_. Para pasto sintético largo de 3ra gen o cesped natural. Tiene tapones medianos, pero en un sintético de 1ra gen serían incómodos.
     + FG: _FIRM GROUND_. Para pasto sintético de 2da gen blandos o 3ra gen. o cesped natural duro, incluso cachas de tierra. Buena para el jugador amateur que juega en varias superficies. Tiene tapones bajos.
     + TF: _TURF_. Para pasto sintético corto tipo alfombra 1ra gen. o 2da gen. duros, también se puede usar en piso. Tienen en la suela muchos puntos de contacto con el piso.
@@ -132,8 +132,8 @@ Se considera que Mizuno tiene el mejor cuero del mercado para botines.
 
 ## New Balance
 
-+ Furón: Bota de velocidad, placa de suela muy rígida (la más rígida del mercado). Para pies angostos.
-+ Tekela: Recubrimiento de líneas de silicona para mejor grip. Buen interior. Tapones cónicos. tiene muy buenos Reviews. Para pies anchos.
++ Furón: Botín de velocidad, placa de suela muy rígida (la más rígida del mercado). Para pies angostos.
++ Tekela: Botín de control. Recubrimiento de líneas de silicona para mejor grip. Buen interior. Tapones cónicos. tiene muy buenos Reviews. Para pies anchos.
 
 ---
 
@@ -152,11 +152,13 @@ Se considera que Mizuno tiene el mejor cuero del mercado para botines.
 
 ---
 
-Fuentes:
+Algunas Fuentes:
 
 [Botines de Ascenso](https://www.instagram.com/botinesdeascenso/?hl=es-la)
 
 [Fútbol Emotion](https://youtube.com/c/futbolemotion)
+
+[Futbolistas](https://youtube.com/c/FUTBOLISTAS)
 
 
 ## Autor
