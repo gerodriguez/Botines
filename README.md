@@ -3,7 +3,7 @@ Información recopilada sobre botines de hoy en día. _`marzo/2021`_
 
 ## Diccionario:
 - Upper: Parte de arriba del botín que cubre principalmente el empeine y parte superior del pie.
-- Knit: Superficie confeccionada por una sola pieza tejida digitalmente. Ésto permite configurar la ligereza, flexibilidad, porosidad, rugusidad, etc. de las superficies mediante el uso de hilos de distintos materiales, conservando una única pieza. Se usa en la zona externa del botín. La de Adidas se llama PrimeKnit y la de Nike FlyKnit.
+- Knit: Superficie confeccionada por una sola pieza tejida digitalmente. Ésto permite configurar la ligereza, flexibilidad, porosidad, rugosidad, etc. de las superficies mediante el uso de hilos de distintos materiales, conservando una única pieza. Se usa en la zona externa del botín. La de Adidas se llama PrimeKnit y la de Nike FlyKnit.
 - Grip: Poder de agarre o fricción.
 - Fit: Ajuste del pie dentro del botín.
 - Roll Over: Cuando el pie se desplaza dentro del botín. Sobretodo al frenar de costado y arrancar. Tiene relación con el ajuste y soporte lateral que ofrece el botín.
@@ -13,10 +13,10 @@ Información recopilada sobre botines de hoy en día. _`marzo/2021`_
 [Adidas](#Adidas), [Nike](#Nike) y [Puma](#Puma) dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4.
 
 A modo general las grandes marcas se enfocan en 4 tipos de botines.
-- _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota, pero apuntan a disminuir el peso y dar la sensación de jugar descalzo. Ej: Adidas X, Nike Mercurial.
-- _**Botines de control**_: Tienen en su upper materiales rugosos que aportan buen grip al contacto con la pelota, favoreciendo el control de la pelota y los remates con efecto. Las suelas suelen tener tapones cónicos o semicónicos para favorecer los cambios de dirección. Son pensados para jugadores habilidosos que tienen mucho contacto con la pelota. Ej: Adidas Nemeziz, Nike Phantom.
-- _**Botines armados**_: Tienen una estructura más firme y gruesa, con materiales más resistentes que implican mayor peso. Ej: Adidas Predator, Nike Hipervenom.
-- _**Botines clásicos**_: Brindan buen comfort, comodidad. La mayoría fabricados en cuero dan una sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar. Tienen suelas enteras con tapones cónicos. Ej: Adidas Copa, Nike Tiempo, Mizzuno Morelia
+- _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota, pero apuntan a disminuir el peso y dar la sensación de jugar descalzo. Ej: Adidas X, Nike Mercurial, Puma Ultra, New Balance Furón.
+- _**Botines de control**_: Tienen en su upper materiales rugosos que aportan buen grip al contacto con la pelota, favoreciendo el control de la pelota y los remates con efecto. Las suelas suelen tener tapones cónicos o semicónicos para favorecer los cambios de dirección. Son pensados para jugadores habilidosos que tienen mucho contacto con la pelota. Ej: Adidas Nemeziz, Nike Phantom, Puma Future Z, New Balance Tekela.
+- _**Botines armados**_: Tienen una estructura más firme y gruesa, con materiales más resistentes que implican mayor peso. Ej: Adidas Predator, Nike Hipervenom, Mizuno Rebula Cup.
+- _**Botines clásicos**_: Brindan buen comfort, comodidad. La mayoría fabricados en cuero dan una sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar. Tienen suelas enteras con tapones cónicos. Ej: Adidas Copa, Nike Tiempo, Mizuno Morelia, Puma King.
 
 ### Materiales
 Hoy en día la mayoría de los fabricantes hacen botines con mezcla de tejidos de hilos sintéticos que van desarrollando con las diferentes tecnologías que se aplican al botín, sobre este tejido (knit) suelen aplicarle un recubrimiento con una capa de material sintético adherente, rugoso y/o impermeable.
@@ -57,9 +57,9 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 
 ### Modelos:
 - _Adidas X_: Botín de velocidad, son muy livianos y su estructura de Upper es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
-- _Adidas Némeziz_: Botines de control. Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos. 
-- _Adidas Predator_: Botín armado. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
-- _Adidas Copa_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). Para pies anchos.
+- _Némeziz_: Botines de control. Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos. 
+- _Predator_: Botín armado. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
+- _Copa_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). Para pies anchos.
 
 > No olvidemos que de cada uno de éstos modelos hay una _versión_ (año en que salió), una _gama_.
 
