@@ -19,7 +19,7 @@ A modo general las grandes marcas se enfocan en 4 tipos de botines.
 - _**Botines clásicos**_: Brindan buen comfort, comodidad. La mayoría fabricados en cuero dan una sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar. Tienen suelas enteras con tapones cónicos. Ej: Adidas Copa, Nike Tiempo, Mizzuno Morelia
 
 ### Materiales
-Hoy en día la mayoría de los fabricantes hacen botines con mezcla de tejidos de materiales sintéticos que van desarrollando con las diferentes tecnologías que se aplican al botín.
+Hoy en día la mayoría de los fabricantes hacen botines con mezcla de tejidos de hilos sintéticos que van desarrollando con las diferentes tecnologías que se aplican al botín, sobre este tejido (knit) suelen aplicarle un recubrimiento con una capa de material sintético adherente, rugoso y/o impermeable.
 
 Aunque todavía las marcas tienen modelos de cuero ya que da un agarre y comfort al pie y sensación de contacto con la pelota que los materiales sintéticos no han podido igualar aún. Hay que tener en cuenta que los **_Botines de cuero_** requieren más cuidados que los de materiales sintéticos. Hay que mantenerlos limpios, engrasarlos o incluso ponerles una horma. Hoy en día el mejor cuero para botines es el de canguro por tener mayor cantidad de fibras por cm<sup>2</sup>.
 
@@ -30,7 +30,7 @@ Aunque todavía las marcas tienen modelos de cuero ya que da un agarre y comfort
 - **_Talonera externa_**: Refuerza toda la zona del talón.
 - **_Plantillas_**: En las gamas altas, algunas vienen desmontables, con un tratamiento anti desliz,con una estructura llamada _"Puzzle"_ para que la plantilla se encastre en la placa interna de la suela y no se mueva.
 - **_Tapones_**: Pueden ser laminádos, al tener forma triangular éstos facilitan la tracción hacia adelante a la hora de arrancar. También existen en forma de triada (o flecha) como en las mercurial, o semicónicos como en las Phantom VSN.
-- **_Suelas_**: Suelen ser mucho más "reactivas" (firmes) y dan mayor facilidad en la extensión del metatarso. Algunas son modulares (tienen 2 módulos que la hacen más liviana), uno adelante y otro atrás unidos por un "puente estabilizador" o "espina dorsal" que garantiza la correcta flexión del botín (debe flexar en el metatarso). También están las que vienen con tratamientos "anticlog" para que el pasto no se le adhiera.
+- **_Suelas_**: Suelen ser muy "reactivas" (firmes) y dan mayor facilidad a la flexión y extensión del metatarso. Algunas son modulares (tienen 2 módulos que la hacen más liviana), uno adelante y otro atrás unidos por un "puente estabilizador" o "espina dorsal" que garantiza la correcta flexión del botín (debe flexar en el metatarso). También están las que vienen con tratamientos "anticlog" para que el pasto no se le adhiera.
 Suela Magista: Tapones semicónicos con una zona de rotación.
 
   Tipos de Suelas:
@@ -40,7 +40,7 @@ Suela Magista: Tapones semicónicos con una zona de rotación.
     + TF: _TURF_. Para pasto sintético corto tipo alfombra 1ra gen. o 2da gen. duros, también se puede usar en piso. Tienen en la suela muchos puntos de contacto con el piso.
     + IC/IN: _INDOOR_. Suela semi-lisa para parqué, baldoza o cemento pintado, piso liso, es la típica suela de futsal.
 
-[![Desmarques](https://img.youtube.com/vi/_ZYNtP9ycz0/sddefault.jpg)](https://youtu.be/_ZYNtP9ycz0)
+[![Tipos de suela](https://img.youtube.com/vi/_ZYNtP9ycz0/sddefault.jpg)](https://youtu.be/_ZYNtP9ycz0)
 
 ### Modelos para pies anchos:
 Adidas Copa, Adidas X, Nike Phantom, Puma Future, Puma One, Mizuno Rebula, New Balance Tekela.
@@ -57,8 +57,8 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 
 ### Modelos:
 - _Adidas X_: Botín de velocidad, son muy livianos y su estructura de Upper es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
-- _Adidas Némeziz_: Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos. 
-- _Adidas Predator_: Bota armada. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
+- _Adidas Némeziz_: Botines de control. Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos. 
+- _Adidas Predator_: Botín armado. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
 - _Adidas Copa_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). Para pies anchos.
 
 > No olvidemos que de cada uno de éstos modelos hay una _versión_ (año en que salió), una _gama_.
@@ -68,13 +68,14 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 [![Gamas Adidas](/imagenes/gamas_Adidas.png)](/imagenes/gamas_Adidas.png)
 
 ### Escala de talles:
+
 [![Talles Adidas](/imagenes/talles_Adidas.png)](/imagenes/talles_Adidas.png)
 
 ---
 
 ## Nike
 
-Nike dentro de sus 4 gamas ofrece 2 variantes de modelos, las _Superfly_ y las _vapor_. Las Superfly tienen el Dinamic Fit Collar (son tipo bota), y las vapor no. Las generaciones actuales de Mercurial en 2021 son las Superfly 7 y las vapor 14.
+Nike dentro de sus 4 gamas ofrece 2 variantes de modelos, las _Superfly_  y las _vapor_. Las Superfly tienen el Dinamic Fit Collar (son tipo bota), y las vapor no. Las generaciones actuales de Mercurial en 2021 son las Superfly 7 y las vapor 14.
 
 FlyKnit: Tecnología de la carcasa.
 Anticlog: Tratamiento que le hacen a algunas suelas para que el pasto o barro no se le adhiera. 
@@ -127,6 +128,14 @@ Se considera que Mizuno tiene el mejor cuero del mercado para botines.
 ### Modelos:
 + Morelia Neo: El Rolls Royce de los Botines de cuero. Suela de tapones cónicos (clásicos). Para pies angostos.
 + Rebula Cup: Upper con Espuma de memoria con costura. Buen Grip. De cuero. Para pies anchos.
+
+### Gamas Mizuno:
+
+[![Gamas Mizuno](/imagenes/gamas_Mizuno.png)](/imagenes/gamas_Mizuno.png)
+
+### Escala de talles:
+
+[![Talles Mizuno](/imagenes/talles_Mizuno.jpg)](/imagenes/talles_Mizuno.jpg)
 
 ---
 
