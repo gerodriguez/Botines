@@ -3,7 +3,7 @@ Información recopilada sobre botines de hoy en día. _`marzo/2021`_
 
 ## Diccionario:
 - Upper: Parte de arriba del botín que cubre principalmente el empeine y parte superior del pie.
-- Knit: Superficie confeccionada por una sola pieza tejida digitalmente. Ésto permite configurar la ligereza, flexibilidad, porosidad, rugosidad, etc. de las superficies mediante el uso de hilos de distintos materiales, conservando una única pieza. Se usa en la zona externa del botín. La de Adidas se llama PrimeKnit y la de Nike FlyKnit.
+- Knit: Superficie confeccionada por una sola pieza tejida digitalmente. Ésto permite configurar la ligereza, flexibilidad, porosidad, rugosidad, etc. de las superficies mediante el uso de hilos de distintos materiales, conservando una única pieza. Se usa en la zona externa del botín. La de Adidas se llama PrimeKnit, la de Nike FlyKnit y la de Puma EvoKnit.
 - Grip: Poder de agarre o fricción.
 - Fit: Ajuste del pie dentro del botín.
 - Roll Over: Cuando el pie se desplaza dentro del botín. Sobretodo al frenar de costado y arrancar. Tiene relación con el ajuste y soporte lateral que ofrece el botín.
