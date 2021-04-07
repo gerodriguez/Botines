@@ -34,9 +34,11 @@ Aunque todavía las marcas tienen modelos de cuero ya que da un agarre y comfort
 Suela Magista: Tapones semicónicos con una zona de rotación.
 
   Tipos de Suelas:
-    + SG: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales, muchas tienen tapones intercambiables.
+    + SG: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales, suelen tener tapones intercambiables.
+      - MXSG: _MIXED SOFT GROUND_. Tapones mixtos, tienen tapones fijos FG y tapones intercambiables. Para césped natural suave, mojado o embarrado.
     + AG: _ARTIFICIAL GROUND_. Para pasto sintético largo de 3ra gen o cesped natural. Tiene tapones medianos, pero en un sintético de 1ra gen serían incómodos.
     + FG: _FIRM GROUND_. Para pasto sintético de 2da gen blandos o 3ra gen. o cesped natural duro, incluso cachas de tierra. Buena para el jugador amateur que juega en varias superficies. Tiene tapones bajos.
+    + MG: _MULTIPLE GROUND_. Para multiples superficies. Pasto sintético, césped natural duro o tierra.
     + TF: _TURF_. Para pasto sintético corto tipo alfombra 1ra gen. o 2da gen. duros, también se puede usar en piso. Tienen en la suela muchos puntos de contacto con el piso.
     + IC/IN: _INDOOR_. Suela semi-lisa para parqué, baldoza o cemento pintado, piso liso, es la típica suela de futsal.
 
