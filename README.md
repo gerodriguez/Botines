@@ -1,5 +1,5 @@
-# Botines
-Información recopilada sobre botines de hoy en día. _`marzo/2021`_
+# Botines de fútbol
+Información recopilada sobre botines de fútbol de hoy en día. _`marzo/2021`_
 
 ## Diccionario:
 - Upper: Parte de arriba del botín que cubre principalmente el empeine y parte superior del pie.
@@ -59,7 +59,7 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 
 ### Modelos:
 - _Adidas X_: Botín de velocidad, son muy livianos y su estructura de Upper es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
-- _Némeziz_: Botines de control. Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos. 
+- _Némeziz_: Botines de control. Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos/ovalados. 
 - _Predator_: Botín armado. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
 - _Copa_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). Para pies anchos.
 
@@ -84,11 +84,11 @@ Anticlog: Tratamiento que le hacen a algunas suelas para que el pasto o barro no
 Dinamic Fit Collar: Alzada de tela tipo media soquete que sale del botín sobre el tobillo. También le dicen Collar en inglés o collarín en español.
 
 ### Modelos:
-+ _Mercurial_: Botín de velocidad. Suela modular con tapones en forma de triada ^. Mejor contacto con la pelota que su competencia (las Adidas X). Para pies angostos.
-+ _Phantom GT_: Es una Fusión de los modelos anteriores Phantom Vision (VSN) y Phantom Venom (VNM). Tienen cobertura de FlyKnit. Suela Magista de tacos semicónicos delante y laminados detrás. Para pies anchos.
++ _Mercurial_: Botín de velocidad. Suela modular con tapones en forma de triada (o flecha ^). Mejor contacto con la pelota que su competencia (las Adidas X). Para pies angostos.
++ _Phantom GT_: Botín de control. Es una Fusión de los modelos anteriores Phantom Vision (VSN) y Phantom Venom (VNM). Tienen una cobertura Generative Texture (de ahí el GT) que aporta grip con la pelota mejor que Phantom Venom y similar a Phantom Vision. Suela modular con tapones cónicos y laminados delante y atrás unidas por un puente lateral externo. En la punta tiene tapones laminados que permiten mejor tracción al arrancar. Para pies anchos.
 + _Tiempo_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos) y laminados atrás.
 
-+ _Hipervenom_: Fueron discontinuadas, tomando su lugar los Phantom. Carcasa más armada/rígida. Tapones cónicos en el interior y laminados en el exterior de la suela.
++ _Hipervenom_: Botín armado. Fueron discontinuadas, tomando su lugar los Phantom. Tapones cónicos en el interior y laminados en el exterior de la suela.
 
 ### Gamas Nike:
 
@@ -109,7 +109,7 @@ FitZone: Tejido de banda Elástica.
 + Future Z: Botín de control. Son los que usa Neymar. Fitzone en el medio del Botín. Suela modular con espina dorsal cruzada bastante rígida, con tapones semicónicos. Buen grip con la pelota. Cómodas.
 + Ultra: Botín de velocidad. Upper de microfibra. Reemplazan a Puma One. Son los que usa Agüero y Griezmann. 3 modelos de upper: Hilo, sintetico o cuero.
 + Future: Botín armado. Buen grip con la pelota. Para pies anchos.
-+ King: Modelo Clásico
++ King: Modelo Clásico. Tapones cónicos. De cuero.
 
 
 + Puma One: Se discontinuaron. Lado interno de cuero, lado externo de sintético. Para pies anchos.
@@ -117,6 +117,12 @@ FitZone: Tejido de banda Elástica.
 + Evo Power: Se discontinuaron. Botín más armado, Grip y confort.
 
 + Borussia: Los clásicos botines de Maradona.
+
+### Gamas Puma:
+
+[![Gamas Puma Future](/imagenes/gamas_Puma_Future.png)](/imagenes/gamas_Puma_Future.png)
+[![Gamas Puma Ultra](/imagenes/gamas_Puma_Ultra.png)](/imagenes/gamas_Puma_Ultra.png)
+
 
 ### Escala de talles:
 
