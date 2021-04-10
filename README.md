@@ -35,11 +35,11 @@ Suela Magista: Tapones semicónicos con una zona de rotación.
 
   Tipos de Suelas:
     + SG: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales, suelen tener tapones intercambiables.
-      - MXSG: _MIXED SOFT GROUND_. Tapones mixtos, tienen tapones fijos FG y tapones intercambiables. Para césped natural suave, mojado o embarrado.
-    + AG: _ARTIFICIAL GROUND_. Para pasto sintético largo de 3ra gen o cesped natural. Tiene tapones medianos, pero en un sintético de 1ra gen serían incómodos.
+      - MXSG: _MIXED SOFT GROUND_. Tapones mixtos, tiene tapones fijos FG y tapones intercambiables. Para césped natural suave, mojado o embarrado.
+    + AG: _ARTIFICIAL GROUND_. Para pasto sintético largo de 3ra gen o cesped natural. Tiene tapones medianos cónicos con un orificio en el centro. En un sintético de 1ra gen serían incómodos.
     + FG: _FIRM GROUND_. Para pasto sintético de 2da gen blandos o 3ra gen. o cesped natural duro, incluso cachas de tierra. Buena para el jugador amateur que juega en varias superficies. Tiene tapones bajos.
     + MG: _MULTIPLE GROUND_. Para multiples superficies. Pasto sintético, césped natural duro o tierra.
-    + TF: _TURF_. Para pasto sintético corto tipo alfombra 1ra gen. o 2da gen. duros, también se puede usar en piso. Tienen en la suela muchos puntos de contacto con el piso.
+    + TF: _TURF_. Para pasto sintético corto tipo alfombra 1ra gen. o 2da gen. duros, también se puede usar en piso. Tienen en la suela muchos puntos de contacto con el piso (pequeños tapones).
     + IC/IN: _INDOOR_. Suela semi-lisa para parqué, baldoza o cemento pintado, piso liso, es la típica suela de futsal.
 
 [![Tipos de suela](https://img.youtube.com/vi/_ZYNtP9ycz0/sddefault.jpg)](https://youtu.be/_ZYNtP9ycz0)
@@ -59,7 +59,7 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 
 ### Modelos:
 - _Adidas X_: Botín de velocidad, son muy livianos y su estructura de Upper es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
-- _Némeziz_: Botines de control. Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos/ovalados. 
+- _Némeziz_: Botín de control. Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos/ovalados. 
 - _Predator_: Botín armado. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
 - _Copa_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). Para pies anchos.
 
@@ -116,7 +116,7 @@ FitZone: Tejido de banda Elástica.
 + Evo Speed: Se discontinuaron. Botín de velocidad.
 + Evo Power: Se discontinuaron. Botín más armado, Grip y confort.
 
-+ Borussia: Los clásicos botines de Maradona.
++ Borussia: Los clásicos botines de Maradona. De cuero. Tapones cónicos.
 
 ### Gamas Puma:
 
