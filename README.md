@@ -120,6 +120,8 @@ FitZone: Tejido de banda Elástica.
 
 ### Gamas Puma:
 
+(Creo que no aplica a los FutureZ)
+
 [![Gamas Puma Future](/imagenes/gamas_Puma_Future.png)](/imagenes/gamas_Puma_Future.png)
 [![Gamas Puma Ultra](/imagenes/gamas_Puma_Ultra.png)](/imagenes/gamas_Puma_Ultra.png)
 
@@ -134,8 +136,11 @@ FitZone: Tejido de banda Elástica.
 Se considera que Mizuno tiene el mejor cuero del mercado para botines.
 
 ### Modelos:
-+ Morelia Neo: El Rolls Royce de los Botines de cuero. Suela de tapones cónicos (clásicos). Para pies angostos.
-+ Rebula Cup: Upper con Espuma de memoria con costura. Buen Grip. De cuero. Para pies anchos.
++ Morelia Neo: El Rolls Royce de los Botines de cuero. Suela de tapones cónicos (clásicos). Una renovación de los clásicos Morelia. Para pies angostos.
++ Rebula Cup: Upper con Espuma de memoria con costura. Buen Grip. De cuero. Suela modular con puente grueso, tapones semicónicos con zona de giro. Para pies anchos.
++ Morelia: Botín clásico.
++ Rebula: Suela modular con puente grueso, tapones semicónicos con zona de giro.
++ Monarcida Neo:
 
 ### Gamas Mizuno:
 
