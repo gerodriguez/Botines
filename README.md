@@ -1,3 +1,16 @@
+<style>
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: black;
+  }
+}
+@media (prefers-color-scheme: light) {
+  html {
+    background-color: white;
+  }
+}
+</style>
+
 # Botines de fútbol
 Información recopilada sobre botines de fútbol de hoy en día. _`marzo/2021`_
 
@@ -11,6 +24,8 @@ Información recopilada sobre botines de fútbol de hoy en día. _`marzo/2021`_
 
 ## General
 [Adidas](#Adidas), [Nike](#Nike) y [Puma](#Puma) dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4.
+
+> La mayoría de ésta recopilación es basada en los modelos de gama alta. 
 
 A modo general las grandes marcas se enfocan en 4 tipos de botines.
 - _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota, pero apuntan a disminuir el peso y dar la sensación de jugar descalzo. Ej: Adidas X, Nike Mercurial, Puma Ultra, New Balance Furón.
@@ -59,9 +74,10 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 
 ### Modelos:
 - _Adidas X_: Botín de velocidad, son muy livianos y su estructura de Upper es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
-- _Némeziz_: Botín de control. Son las que usa Messi. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresion y ajuste sobre el empeine. Suela modular de tapones cónicos/ovalados. 
-- _Predator_: Botín armado. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
-- _Copa_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). Para pies anchos.
+- _Némeziz_: Botín de control. Son las que usa Messi. Totalmente sintéticas. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresión y ajuste sobre el empeine. Suela modular de tapones cónicos/ovalados. 
+- _Predator_: Botín armado de golpeo. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
+- _Copa_: Modelo de estilo clásico con grandes avances de diseño. Carcasa de cuero y PrimeKnit. Gran comfort. Suela de tapones cónicos. Para pies anchos.
+- _Copa Mundial_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). De las más pesadas. Para pies anchos.
 
 > No olvidemos que de cada uno de éstos modelos hay una _versión_ (año en que salió), una _gama_.
 
@@ -77,18 +93,30 @@ Las gamas + (plus) suelen venir sin cordones (laceless).
 
 ## Nike
 
-Nike dentro de sus 4 gamas ofrece 2 variantes de modelos, las _Superfly_  y las _vapor_. Las Superfly tienen el Dinamic Fit Collar (son tipo bota), y las vapor no. Las generaciones actuales de Mercurial en 2021 son las Superfly 7 y las vapor 14.
+Nike maneja 4 gamas.
+En los modelos Mercurial dentro de sus 4 gamas ofrece 2 variantes de modelos, las _Superfly_  y las _vapor_. Las Superfly tienen el Dinamic Fit Collar (son tipo bota), y las vapor no lo tienen (low cut). Las generaciones actuales de Mercurial en 2021 son las Superfly 8 y las vapor 14.
+Los modelos _Phantom VSN_ y _Phantom VNM_ se diferencian principalmente porque los VSN son tipo bota y los VNM no (low cut), pero los VNM tienen zona de golpeo reforzada y los VSN no.
+Finalmente los _Phantom GT_ fusionan las anteriores versiones de Phantom y están disponible los modelos tipo bota y los low cut. 
 
-FlyKnit: Tecnología de la carcasa.
+FlyKnit: Tecnología de tela cosida semi elástica. En algunos botines conforma la carcasa. Más suave y moldeable que las carcasas de microfibra sintética.
+ACC: All Condition Control. Recubrimiento del botín que garantiza que el botín se comporte de la misma forma en cualquier condición meteorológica.
 Anticlog: Tratamiento que le hacen a algunas suelas para que el pasto o barro no se le adhiera. 
-Dinamic Fit Collar: Alzada de tela tipo media soquete que sale del botín sobre el tobillo. También le dicen Collar en inglés o collarín en español.
+Dinamic Fit Collar: Alzada de tela tipo media soquete que sale del botín sobre el tobillo. También le dicen collarín en español.
+NikeSkin: Cobertura sintética que recubre, protege e impermeabiliza la carcasa.
+Gost Laces: cordones cubiertos por malla de Tela.
+QuadFit: Tecnología de malla interna que comprime el pie desde los cordones hacia ambos laterales.
+FlyWay Dinamic: BrioCables internos que comprimen el pie desde los cordones hacia ambos laterales.
+Precision Power: Material sintético en relieve en la zona de golpeo con forma de parrilla escalonada que aporta mejor grip y contención al golpear la pelota.
 
 ### Modelos:
-+ _Mercurial_: Botín de velocidad. Suela modular con tapones en forma de triada (o flecha ^). Mejor contacto con la pelota que su competencia (las Adidas X). Para pies angostos.
-+ _Phantom GT_: Botín de control. Es una Fusión de los modelos anteriores Phantom Vision (VSN) y Phantom Venom (VNM). Tienen una cobertura Generative Texture (de ahí el GT) que aporta grip con la pelota mejor que Phantom Venom y similar a Phantom Vision. Suela modular con tapones cónicos y laminados delante y atrás unidas por un puente lateral externo. En la punta tiene tapones laminados que permiten mejor tracción al arrancar. Para pies anchos.
-+ _Tiempo_: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos) y laminados atrás.
++ _Mercurial_: Botín de velocidad. Tipo bota (Superfly) o low cut (Vapor). Suela modular con tapones laminados en forma de triada (o flecha ^). Mejor contacto con la pelota que su competencia (las Adidas X). Para pies angostos.
++ _Phantom GT_: Botín de control. Tipo bota o low cut. Es una Fusión de los modelos anteriores Phantom Vision (VSN) y Phantom Venom (VNM). Tienen una cobertura _Generative Texture_ (de ahí el GT) que aporta grip con la pelota mejor que Phantom Venom y similar a Phantom Vision. Suela modular con tapones cónicos y laminados delante y atrás unidas por un puente lateral externo. En la punta tiene tapones laminados que permiten mejor tracción al arrancar. FlyKnit. NikeSkin. ACC. Para pies anchos.
++ _Tiempo Legend_: Modelo de estilo clásico con grandes avances de diseño. Hechos de cuero de canguro con trama geométrica. Son muy livianos. Comfort. Suela de tapones cónicos (clásicos) y laminados atrás. Flyknit en la zona de cordones. QuadFit. ACC. Para pies anchos.
 
-+ _Hipervenom_: Botín armado. Fueron discontinuadas, tomando su lugar los Phantom. Tapones cónicos en el interior y laminados en el exterior de la suela.
++ _Phantom Vision (VSN)_: Botín de control. Tipo bota. Upper suave. Buen grip sobretodo en la versión 2. Suela con tapones semi-cónicos adelante y laminados atrás. Talonera interna. FlyKnit. ACC. Gost Laces. QuadFit. Para pies anchos.
++ _Phantom Venom (VNM)_: Botín armado de golpeo. Fueron discontinuados. Carcasa de microfibra sintética. Zona de golpeo con Precision Power. Suela flexible hacia los lados con tapones laminados en forma de flecha. FlyKnit en la zona de cordones. Plantilla con antideslizante. FlyWay Dinamic. ACC. Para pies semi anchos.
+
++ _Hipervenom_: Botín armado. Fueron discontinuados, tomando su lugar los Phantom. Tapones cónicos en el interior y laminados en el exterior de la suela.
 
 ### Gamas Nike:
 
@@ -106,17 +134,17 @@ EvoKnit: Material tejido de hilos del upper.
 FitZone: Tejido de banda Elástica.
 
 ### Modelos:
-+ Future Z: Botín de control. Son los que usa Neymar. Fitzone en el medio del Botín. Suela modular con espina dorsal cruzada bastante rígida, con tapones semicónicos. Buen grip con la pelota. Cómodas.
-+ Ultra: Botín de velocidad. Upper de microfibra. Reemplazan a Puma One. Son los que usa Agüero y Griezmann. 3 modelos de upper: Hilo, sintetico o cuero.
-+ Future: Botín armado. Buen grip con la pelota. Para pies anchos.
-+ King: Modelo Clásico. Tapones cónicos. De cuero.
++ _Future Z_: Botín de control. Son los que usa Neymar. Fitzone en el medio del Botín. Suela modular con espina dorsal cruzada bastante rígida, con tapones semicónicos. Buen grip con la pelota. Cómodas.
++ _Ultra_: Botín de velocidad. Upper de microfibra. Reemplazan a Puma One. Son los que usa Agüero y Griezmann. 3 modelos de upper: Hilo, sintetico o cuero.
++ _Future_: Botín armado. Buen grip con la pelota. Para pies anchos.
++ _King_: Modelo Clásico. Tapones cónicos. De cuero. Lengueta de Knit.
 
 
-+ Puma One: Se discontinuaron. Lado interno de cuero, lado externo de sintético. Para pies anchos.
-+ Evo Speed: Se discontinuaron. Botín de velocidad.
-+ Evo Power: Se discontinuaron. Botín más armado, Grip y confort.
++ _Puma One_: Botín de velocidad. Se discontinuaron. Upper con lado interno de cuero, lado externo de sintético. Para pies anchos.
++ _Evo Speed_: Se discontinuaron. Botín de velocidad.
++ _Evo Power_: Se discontinuaron. Botín más armado, Grip y confort.
 
-+ Borussia: Los clásicos botines de Maradona. De cuero. Tapones cónicos.
++ _Borussia_: Los clásicos botines de Maradona. De cuero. Tapones cónicos.
 
 ### Gamas Puma:
 
@@ -161,12 +189,14 @@ Se considera que Mizuno tiene el mejor cuero del mercado para botines.
 
 ## Lotto
 
++ Solista: Botín de velocidad. Muy livianos. Carcasa de material sintético (microfibra). Tapones cónicos
 + Stadio: Remake del modelo clásico de los '90. De cuero. Tapones cónicos
 
 ---
 
 ## Umbro
 
++ Velocita IV: Botín de velocidad. Muy livianos. Hechos de microfibra microperforada.
 + Accuro: Muy estrecho. Suela de tapones cónicos. Para pies angostos.
 + Medusae:
 
