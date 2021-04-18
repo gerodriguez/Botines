@@ -1,15 +1,4 @@
-<style>
-@media (prefers-color-scheme: dark) {
-  html {
-    background-color: black;
-  }
-}
-@media (prefers-color-scheme: light) {
-  html {
-    background-color: white;
-  }
-}
-</style>
+
 
 # Botines de fútbol
 Información recopilada sobre botines de fútbol de hoy en día. _`marzo/2021`_
@@ -28,15 +17,15 @@ Información recopilada sobre botines de fútbol de hoy en día. _`marzo/2021`_
 > La mayoría de ésta recopilación es basada en los modelos de gama alta. 
 
 A modo general las grandes marcas se enfocan en 4 tipos de botines.
-- _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota, pero apuntan a disminuir el peso y dar la sensación de jugar descalzo. Ej: Adidas X, Nike Mercurial, Puma Ultra, New Balance Furón.
-- _**Botines de control**_: Tienen en su upper materiales rugosos que aportan buen grip al contacto con la pelota, favoreciendo el control de la pelota y los remates con efecto. Las suelas suelen tener tapones cónicos o semicónicos para favorecer los cambios de dirección. Son pensados para jugadores habilidosos que tienen mucho contacto con la pelota. Ej: Adidas Nemeziz, Nike Phantom, Puma Future Z, New Balance Tekela.
+- _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota, pero apuntan a disminuir el peso, potenciar los sprints y dar la sensación de jugar descalzo. Ej: Adidas X, Nike Mercurial, Puma Ultra, New Balance Furón.
+- _**Botines de control**_: Tienen en su upper materiales rugosos que aportan buen grip al contacto con la pelota, favoreciendo el control de la pelota, los pases y los remates con efecto. Las suelas suelen tener tapones cónicos o semicónicos para favorecer los cambios de dirección. Son pensados para jugadores habilidosos que tienen mucho contacto con la pelota. Ej: Adidas Nemeziz, Nike Phantom, Puma Future Z, New Balance Tekela.
 - _**Botines armados**_: Tienen una estructura más firme y gruesa, con materiales más resistentes que implican mayor peso. Ej: Adidas Predator, Nike Hipervenom, Mizuno Rebula Cup.
 - _**Botines clásicos**_: Brindan buen comfort, comodidad. La mayoría fabricados en cuero dan una sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar. Tienen suelas enteras con tapones cónicos. Ej: Adidas Copa, Nike Tiempo, Mizuno Morelia, Puma King.
 
 ### Materiales
 Hoy en día la mayoría de los fabricantes hacen botines con mezcla de tejidos de hilos sintéticos que van desarrollando con las diferentes tecnologías que se aplican al botín, sobre este tejido (knit) suelen aplicarle un recubrimiento con una capa de material sintético adherente, rugoso y/o impermeable.
 
-Aunque todavía las marcas tienen modelos de cuero ya que da un agarre y comfort al pie y sensación de contacto con la pelota que los materiales sintéticos no han podido igualar aún. Hay que tener en cuenta que los **_Botines de cuero_** requieren más cuidados que los de materiales sintéticos. Hay que mantenerlos limpios, engrasarlos o incluso ponerles una horma. Hoy en día el mejor cuero para botines es el de canguro por tener mayor cantidad de fibras por cm<sup>2</sup>.
+Aunque todavía las marcas tienen modelos de cuero ya que da un agarre y comfort al pie y sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar. Hay que tener en cuenta que los **_Botines de cuero_** requieren más cuidados que los de materiales sintéticos. Hay que mantenerlos limpios, engrasarlos o incluso ponerles una horma. Hoy en día el mejor cuero para botines es el de canguro por tener mayor cantidad de fibras por cm<sup>2</sup>.
 
 > Hay quienes desaconsejan el uso de botines de cuero en cesped sintético porque el sintético quema el cuero con la fricción arruinando así la superficie del botín. Como norma general recomiendan para sintético, botines de materiales sintéticos.
 
@@ -60,10 +49,13 @@ Suela Magista: Tapones semicónicos con una zona de rotación.
 [![Tipos de suela](https://img.youtube.com/vi/_ZYNtP9ycz0/sddefault.jpg)](https://youtu.be/_ZYNtP9ycz0)
 
 ### Modelos para pies anchos:
-Adidas Copa, Adidas X, Nike Phantom, Puma Future, Puma One, Mizuno Rebula, New Balance Tekela.
+Adidas Copa, Adidas X, Nike Phantom, Nike Tiempo Legend, Puma Future, Puma One, Mizuno Rebula, New Balance Tekela.
 
 ### Modelos para pies angostos:
 Adidas Predator, Nike Mercurial, Mizuno Morelia Neo, New Balance Furón, Umbro Accuro.
+
+### Modelos de cuero:
+Adidas Copa, Nike Tiempo Legend, Puma King, Mizuno Morelia, Mizuno Rebula.
 
 ---
 
@@ -113,7 +105,7 @@ Precision Power: Material sintético en relieve en la zona de golpeo con forma d
 + _Phantom GT_: Botín de control. Tipo bota o low cut. Es una Fusión de los modelos anteriores Phantom Vision (VSN) y Phantom Venom (VNM). Tienen una cobertura _Generative Texture_ (de ahí el GT) que aporta grip con la pelota mejor que Phantom Venom y similar a Phantom Vision. Suela modular con tapones cónicos y laminados delante y atrás unidas por un puente lateral externo. En la punta tiene tapones laminados que permiten mejor tracción al arrancar. FlyKnit. NikeSkin. ACC. Para pies anchos.
 + _Tiempo Legend_: Modelo de estilo clásico con grandes avances de diseño. Hechos de cuero de canguro con trama geométrica. Son muy livianos. Comfort. Suela de tapones cónicos (clásicos) y laminados atrás. Flyknit en la zona de cordones. QuadFit. ACC. Para pies anchos.
 
-+ _Phantom Vision (VSN)_: Botín de control. Tipo bota. Upper suave. Buen grip sobretodo en la versión 2. Suela con tapones semi-cónicos adelante y laminados atrás. Talonera interna. FlyKnit. ACC. Gost Laces. QuadFit. Para pies anchos.
++ _Phantom Vision (VSN)_: Botín de control. Tipo bota. Upper suave. Buen grip sobretodo en la versión 2. Suela con tapones semi-cónicos adelante y laminados atrás. Talonera interna. Carcasa de FlyKnit. ACC. Gost Laces. QuadFit. Para pies anchos.
 + _Phantom Venom (VNM)_: Botín armado de golpeo. Fueron discontinuados. Carcasa de microfibra sintética. Zona de golpeo con Precision Power. Suela flexible hacia los lados con tapones laminados en forma de flecha. FlyKnit en la zona de cordones. Plantilla con antideslizante. FlyWay Dinamic. ACC. Para pies semi anchos.
 
 + _Hipervenom_: Botín armado. Fueron discontinuados, tomando su lugar los Phantom. Tapones cónicos en el interior y laminados en el exterior de la suela.
