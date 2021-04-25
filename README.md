@@ -20,7 +20,7 @@ A la hora de elegir un botín debemos tener en cuenta 4 cosas:
 
 [Adidas](#Adidas), [Nike](#Nike) y [Puma](#Puma) dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4. Además de elegir modelo y gama deberemos optar también por el tipo de suela.
 
-> La mayoría de ésta recopilación es basada en los modelos de gama alta para cesped natural.
+> La mayoría de ésta recopilación es basada en los modelos de gama alta para cesped natural actuales.
 
 A modo general las grandes marcas se enfocan en 4 tipos de botines.
 - _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota, pero apuntan a disminuir el peso, potenciar los sprints y dar la sensación de jugar descalzo. Ej: Adidas X, Nike Mercurial, Puma Ultra, New Balance Furón.
@@ -43,7 +43,7 @@ A modo general las grandes marcas se enfocan en 4 tipos de botines.
 - **_Suelas_**: Suelen ser muy "reactivas" (firmes) y dan mayor facilidad a la flexión y extensión del metatarso. Algunas son modulares (tienen 2 módulos que la hacen más liviana), uno adelante y otro atrás unidos por un "puente estabilizador" o "espina dorsal" que garantiza la correcta flexión del botín (debe flexar en el metatarso). También están las que vienen con tratamientos "anticlog" para que el pasto o barro no se le adhiera.
 
   Tipos de Suelas:
-    Suela Magista: Tapones semicónicos con una zona de rotación.
+    Suela Magista: Modelo de suela famoso por sus tapones laminados o semicónicos con una zona de rotación en forma circular.
 
     + **SG**: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales, suelen tener tapones intercambiables.
       - MXSG: _MIXED SOFT GROUND_. Tapones mixtos, tiene tapones fijos FG y tapones intercambiables. Para césped natural suave, mojado o embarrado.
@@ -71,14 +71,22 @@ Adidas Copa, Nike Tiempo Legend, Puma King, Mizuno Morelia, Mizuno Rebula.
 Adidas pone nombre a su versión según el año en que salieron a la venta esos botines, por ej. **20+** para los modelos del año 2020 y de la gama más alta **(+)**, le siguen 20.1 a 20.4 y así con las diferentes versiones de cada modelo.
   Las gamas + (plus) suelen venir sin cordones (laceless).
 
+- _PrimeKnit_: 
+- FluroSkin: 
+- FusionSkin: 
+- _DemonSkin_: Recubrimiento en forma de escamas o pinchos de un material rugoso en la zona del Upper que aporta buen grip con la pelota.
+- _Touch Pods_: Superficie de espuma que absorbe el impacto y permite mejor control de pelota.
+- _Sense Pods_: Superficie de espuma en el interior del botín que mejora el ajuste del pie con el botín.
+
 ### Modelos:
 + **_Adidas X_**: Botín de velocidad, son muy livianos y su carcasa es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva, tiene fibra de carbono y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
 + **_Némeziz_**: Botín de control. Son las que usa Messi. Totalmente sintéticas. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresión y ajuste sobre el empeine. Suela modular de tapones cónicos/ovalados. 
-+ **_Predator_**: Botín armado de golpeo. Tienen como característica principal el buen grip en contacto con la Pelota. En la versión 20 está recubierto con unos "pinchos" (o "escamas") de un material rugoso en la zona del Upper llamado demonskin el cual logra muy buen agarre con la pelota. Suela modular con tapones semicónicos. Para pies angostos.
++ **_Predator_**: Botín armado de golpeo. Tienen como característica principal el buen grip en contacto con la Pelota. Desde la versión 20 vienen recubiertos con DemonSkin. En la versión "Freak"(2021) el collar es de 2 piezas. Suela modular con tapones semicónicos. Para pies angostos.
 + **_Copa_**: Modelo de estilo clásico con grandes avances de diseño. Carcasa de cuero y PrimeKnit. Gran comfort. Suela de tapones cónicos. Para pies anchos.
+  + **_Copa Sense_**: Tienen zonas en el upper con Touch Pods para mejorar el control de la pelota. En la zona del interior del talón tienen Sense Pods.
 + **_Copa Mundial_**: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). De las más pesadas. Para pies anchos.
 
-> No olvidemos que de cada uno de éstos modelos hay distintas _versiones_ (año en que salió), _gamas_ y un tipos de suela.
+> No olvidemos que de cada uno de éstos modelos hay distintas _versiones_ (año en que salió), _gamas_ y un tipo de suela.
 
 ### Gamas Adidas:
 
@@ -141,7 +149,7 @@ Finalmente los _Phantom GT_ fusionan las anteriores versiones de Phantom y está
 
 + **_Puma One_**: Botín de velocidad. Se discontinuaron. Upper con lado interno de cuero, lado externo de sintético. Para pies anchos.
 + **_Evo Speed_**: Se discontinuaron. Botín de velocidad.
-+ **_Evo Power_**: Se discontinuaron. Botín más armado, Grip y confort.
++ **_Evo Power_**: Se discontinuaron. Botín más armado, Grip y zona de golpeo. Comfort.
 
 + **_Borussia_**: Los clásicos botines de Maradona. De cuero. Tapones cónicos.
 
