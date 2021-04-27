@@ -86,7 +86,11 @@ Adidas pone nombre a su versión según el año en que salieron a la venta esos 
   + **_Copa Sense_**: Tienen zonas en el upper con Touch Pods para mejorar el control de la pelota. En la zona del interior del talón tienen Sense Pods.
 + **_Copa Mundial_**: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). De las más pesadas. Para pies anchos.
 
-> No olvidemos que de cada uno de éstos modelos hay distintas _versiones_ (año en que salió), _gamas_ y un tipo de suela.
++ **_Messi_**: 
++ **_F50_**: 
++ **_Ace_**: 
+
+> No olvidemos que de cada uno de éstos modelos hay distintas _versiones_ (año en que salió), _gamas_ y un tipo de suela. Y muchas veces también hay ediciones especiales o simplemente cambios puramente estéticos como diseños de colores. 
 
 ### Gamas Adidas:
 
@@ -144,6 +148,7 @@ Finalmente los _Phantom GT_ fusionan las anteriores versiones de Phantom y está
 ### Modelos:
 + **_Future Z_**: Botín de control. Son los que usa Neymar. Fitzone en el medio del Botín. Suela modular con espina dorsal cruzada bastante rígida, con tapones semicónicos. Buen grip con la pelota. Cómodas.
 + **_Ultra_**: Botín de velocidad. Upper de microfibra. Reemplazan a Puma One. Son los que usa Agüero y Griezmann. 3 modelos de upper: Hilo, sintetico o cuero.
+  - **_Ultra ST_**: Carcasa increíblemente fina y ultralivianas, se siente como jugar descalzo. Las más finas del mercado. Menor ajuste, contención, grip y suela menos reactiva que las Ultra.
 + **_Future_**: Botín armado. Buen grip con la pelota. Para pies anchos.
 + **_King_**: Modelo Clásico. Tapones cónicos. De cuero. Lengueta de Knit.
 
