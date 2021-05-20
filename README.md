@@ -37,10 +37,10 @@ A modo general las grandes marcas se enfocan en 4 tipos de botines.
     
     > Hay quienes desaconsejan el uso de botines de cuero en cesped sintético porque el sintético quema el cuero con la fricción arruinando así la superficie del botín. Como norma general recomiendan para sintético, botines de materiales sintéticos.
 
-- **_Talonera externa_**: Refuerza toda la zona del talón.
-- **_Plantillas_**: En las gamas altas, algunas vienen desmontables, con un tratamiento anti deslizante y con una estructura llamada _"Puzzle"_ para que la plantilla se encastre en la placa interna de la suela y no se mueva.
+- **_Talonera externa_**: Generalmente son una continuación de la suela que engloba, recubre y refuerza toda la zona del talón.
+- **_Plantillas_**: En las gamas altas, suelen venir desmontables, con un tratamiento anti deslizante y/o con una estructura llamada _"Puzzle"_ para que la plantilla se encastre en la placa interna de la suela y no se mueva.
 - **_Tapones_**: Pueden ser laminádos, al tener forma triangular éstos facilitan la tracción hacia adelante a la hora de arrancar. También existen en forma de triada (o flecha) como en las mercurial, o semicónicos como en las Phantom VSN.
-- **_Suelas_**: Suelen ser muy "reactivas" (firmes) y dan mayor facilidad a la flexión y extensión del metatarso. Algunas son modulares (tienen 2 módulos que la hacen más liviana), uno adelante y otro atrás unidos por un "puente estabilizador" o "espina dorsal" que garantiza la correcta flexión del botín (debe flexar en el metatarso). También están las que vienen con tratamientos "anticlog" para que el pasto o barro no se le adhiera.
+- **_Suelas_**: Suelen ser muy "reactivas" (firmes) y dan mayor facilidad a la flexión y extensión del metatarso, siendo más firme del medio hacia atrás. Algunas son modulares (tienen 2 partes que la hacen más liviana), una adelante y otra atrás unidos por un "puente estabilizador" o "espina dorsal" que garantiza la correcta flexión del botín (debe flexar en el metatarso). También están las que vienen con tratamientos "anticlog" para que el pasto o barro no se le adhiera permitiendo mantener los tapones seimpre liberados.
 
   Tipos de Suelas:
     Suela Magista: Modelo de suela famoso por sus tapones laminados o semicónicos con una zona de rotación en forma circular.
@@ -71,12 +71,12 @@ Adidas Copa, Nike Tiempo Legend, Puma King, Mizuno Morelia, Mizuno Rebula.
 Adidas pone nombre a su versión según el año en que salieron a la venta esos botines, por ej. **20+** para los modelos del año 2020 y de la gama más alta **(+)**, le siguen 20.1 a 20.4 y así con las diferentes versiones de cada modelo.
   Las gamas + (plus) suelen venir sin cordones (laceless).
 
-- _PrimeKnit_: 
+- _PrimeKnit_: Tela cosida semi elástica
 - FluroSkin: 
 - FusionSkin: 
 - _DemonSkin_: Recubrimiento en forma de escamas o pinchos de un material rugoso en la zona del Upper que aporta buen grip con la pelota.
-- _Touch Pods_: Superficie de espuma que absorbe el impacto y permite mejor control de pelota.
-- _Sense Pods_: Superficie de espuma en el interior del botín que mejora el ajuste del pie con el botín.
+- _Touch Pods_: Relleno de espuma que absorbe el impacto y permite mejor control de pelota.
+- _Sense Pods_: Relleno de espuma en el interior del botín que mejora el ajuste del pie con el botín.
 
 ### Modelos:
 + **_Adidas X_**: Botín de velocidad, son muy livianos y su carcasa es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva, tiene fibra de carbono y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
@@ -90,7 +90,7 @@ Adidas pone nombre a su versión según el año en que salieron a la venta esos 
 + **_F50_**: 
 + **_Ace_**: 
 
-> No olvidemos que de cada uno de éstos modelos hay distintas _versiones_ (año en que salió), _gamas_ y un tipo de suela. Y muchas veces también hay ediciones especiales o simplemente cambios puramente estéticos como diseños de colores. 
+> No olvidemos que de cada uno de éstos modelos hay distintas _versiones_ (año en que salió), _gamas_ y un _tipo de suela_. Y muchas veces también hay ediciones especiales o simplemente cambios puramente estéticos como diseños de colores (colorway).
 
 ### Gamas Adidas:
 
@@ -110,20 +110,20 @@ En los modelos Mercurial dentro de sus 4 gamas ofrece 2 variantes de modelos, la
 Los modelos _Phantom VSN_ y _Phantom VNM_ se diferencian principalmente porque los VSN son tipo bota y los VNM no (low cut), pero los VNM tienen zona de golpeo reforzada y los VSN no.
 Finalmente los _Phantom GT_ fusionan las anteriores versiones de Phantom y están disponible los modelos tipo bota y los low cut. 
 
-- _FlyKnit_: Tecnología de tela cosida semi elástica. En algunos botines conforma la carcasa. Más suave y moldeable que las carcasas de microfibra sintética.
-- _ACC_: All Condition Control. Recubrimiento del botín que garantiza que el botín se comporte de la misma forma en cualquier condición - meteorológica.
-- _Anticlog_: Tratamiento que le hacen a algunas suelas para que el pasto o barro no se le adhiera. 
-- _Dinamic_ Fit Collar: Alzada de tela tipo media soquete que sale del botín sobre el tobillo. También le dicen collarín en español.
-- _NikeSkin_: Cobertura sintética que recubre, protege e impermeabiliza la carcasa.
+- _FlyKnit_: Tela cosida semi elástica. En algunos botines conforma la carcasa. Más suave y moldeable que las carcasas de microfibra sintética.
+- _ACC_: All Condition Control. Recubrimiento del botín que garantiza que el botín se comporte de la misma forma en cualquier condición meteorológica.
+- _Anticlog_: Tratamiento que se le hace a la suela para que el pasto o barro no se le adhiera. Ésto permite tener siempre los tapones despejados.
+- _Dinamic Fit Collar_: Alzada de tela tipo media soquete que sale del botín sobre el tobillo y convierten el botín en uno tipo bota. También le dicen collarín en español.
+- _NikeSkin_: Cobertura sintética que recubre, protege e impermeabiliza la carcasa y upper.
 - _Gost Laces_: Cordones cubiertos por malla de Tela.
-- _QuadFit_: Tecnología de malla interna que comprime el pie desde los cordones hacia ambos laterales.
+- _QuadFit_: Tecnología de malla interna que comprime el pie de manera uniforme desde los cordones hacia ambos laterales.
 - _FlyWay Dinamic_: BrioCables internos que comprimen el pie desde los cordones hacia ambos laterales.
-- _Precision Power_: Material sintético en relieve en la zona de golpeo con forma de parrilla escalonada que aporta mejor grip y contención al golpear la pelota.
+- _Precision Power_: Refuerzo de material sintético en relieve en la zona de golpeo con forma de parrilla escalonada que aporta mejor grip y contención al golpear la pelota.
 
 ### Modelos:
 + **_Mercurial_**: Botín de velocidad. Tipo bota (Superfly) o low cut (Vapor). Suela modular con tapones laminados en forma de triada (o flecha ^). Mejor contacto con la pelota que su competencia (las Adidas X). Para pies angostos.
 + **_Phantom GT_**: Botín de control. Tipo bota o low cut. Es una Fusión de los modelos anteriores Phantom Vision (VSN) y Phantom Venom (VNM). Tienen una cobertura _Generative Texture_ (de ahí el GT) que aporta grip con la pelota mejor que Phantom Venom y similar a Phantom Vision. Suela modular con tapones cónicos y laminados delante y atrás unidas por un puente lateral externo. En la punta tiene tapones laminados que permiten mejor tracción al arrancar. FlyKnit. NikeSkin. ACC. Para pies anchos.
-+ **_Tiempo Legend_**: Modelo de estilo clásico con grandes avances de diseño. Hechos de cuero de canguro, la versión 8 tiene una trama geométrica. Son muy livianos. Comfort. Suela de tapones cónicos (clásicos) y laminados atrás. Flyknit en la zona de cordones. QuadFit. ACC. Para pies anchos.
++ **_Tiempo Legend_**: Modelo de estilo clásico con grandes avances de diseño. Hechos de cuero de canguro, la versión 8 tiene una trama geométrica. Son muy livianos. Comfort. Suela de tapones cónicos y laminados atrás. Flyknit en la zona de cordones. QuadFit. ACC. Para pies anchos.
 
 + **_Phantom Vision (VSN)_**: Botín de control. Tipo bota. Upper suave. Buen grip sobretodo en la versión 2. Suela con tapones semi-cónicos adelante y laminados atrás. Talonera interna. Carcasa de FlyKnit. ACC. Gost Laces. QuadFit. Para pies anchos.
 + **_Phantom Venom (VNM)_**: Botín armado de golpeo. Fueron discontinuados. Carcasa de microfibra sintética. Zona de golpeo con Precision Power. Suela flexible hacia los lados con tapones laminados en forma de flecha. FlyKnit en la zona de cordones. Plantilla con antideslizante. FlyWay Dinamic. ACC. Para pies semi anchos.
@@ -177,7 +177,7 @@ Se considera que Mizuno tiene el mejor cuero del mercado para botines.
 
 ### Modelos:
 + **_Morelia Neo_**: El Rolls Royce de los Botines de cuero. Suela de tapones cónicos (clásicos). Una renovación de los clásicos Morelia. Para pies angostos.
-+ **_Rebula Cup_**: Upper con Espuma de memoria con costura. Buen Grip. De cuero. Suela modular con puente grueso, tapones semicónicos con zona de giro. Para pies anchos.
++ **_Rebula Cup_**: Upper con relleno de espuma de memoria con costuras. Buen Grip. De cuero. Suela modular con puente grueso, tapones semicónicos con zona de giro. Para pies anchos.
 + **_Morelia_**: Botín clásico.
 + **_Rebula_**: Suela modular con puente grueso, tapones semicónicos con zona de giro.
 + **_Monarcida Neo_**:
