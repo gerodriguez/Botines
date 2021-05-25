@@ -12,26 +12,46 @@ Información recopilada sobre botines de fútbol de hoy en día. _`marzo/2021`_
 - Skin: Piel o recubrimiento.
 
 ## General
-A la hora de elegir un botín debemos tener en cuenta 4 cosas:
+A la hora de elegir un botín debemos tener en cuenta algunas cosas:
+- [Horma](#Horma).
+- [Tipo de botín](#Tipo de botín).
+- Superficie sobre la que se van a usar.
+
+[Adidas](#Adidas), [Nike](#Nike) y [Puma](#Puma) y [Mizuno](#Mizuno) dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4 y Mizuno tiene 3 gamas.
+
+Para elegir un botín deberemos optar entre 4 cosas:
 - Modelo
 - Generación o versión
 - Gama
 - Suela
 
-[Adidas](#Adidas), [Nike](#Nike) y [Puma](#Puma) dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4. Además de elegir modelo y gama deberemos optar también por el tipo de suela.
-
 > La mayoría de ésta recopilación es basada en los modelos de gama alta para cesped natural actuales.
 
+## Horma
+Existen botines para pies angostos y otros para pies anchos.
+
+### Modelos para pies anchos:
+Adidas Copa, Adidas X, Nike Phantom, Nike Tiempo Legend, Puma Future, Puma One, Mizuno Rebula, New Balance Tekela.
+
+### Modelos para pies angostos:
+Adidas Predator, Nike Mercurial, Mizuno Morelia Neo, New Balance Furón, Umbro Accuro.
+
+### Tipo de botín:
 A modo general las grandes marcas se enfocan en 4 tipos de botines.
+
 - _**Botines de velocidad**_: De estructura sintética muy fina para alivianar todo el peso posible, son los botines más livianos del mercado y favorecen mucho a los jugadores corredores y veloces. Tienen suelas muy reactivas con tapones laminados transversales para favorecer la tracción a la hora de acelerar. No son los más cómodos, ni más armados ni los que tienen mejor sensación de toque con la pelota, pero apuntan a disminuir el peso, potenciar los sprints y dar la sensación de jugar descalzo. Ej: Adidas X, Nike Mercurial, Puma Ultra, New Balance Furón.
 - _**Botines de control**_: Tienen en su upper materiales rugosos que aportan buen grip al contacto con la pelota, favoreciendo el control de la pelota, los pases y los remates con efecto. Las suelas suelen tener tapones cónicos o semicónicos para favorecer los cambios de dirección. Son pensados para jugadores habilidosos que tienen mucho contacto con la pelota. Ej: Adidas Nemeziz, Nike Phantom, Puma Future Z, New Balance Tekela.
 - _**Botines armados**_: Tienen una estructura más firme y gruesa, con materiales más resistentes que implican mayor peso. Ej: Adidas Predator, Nike Hipervenom, Mizuno Rebula Cup.
-- _**Botines clásicos**_: Brindan buen comfort, comodidad. La mayoría fabricados en cuero dan una sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar. Tienen suelas enteras con tapones cónicos. Ej: Adidas Copa, Nike Tiempo, Mizuno Morelia, Puma King.
+- _**Botines clásicos**_: Brindan buen comfort y comodidad. La mayoría fabricados en cuero dan una sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar. Tienen suelas enteras con tapones cónicos. Ej: Adidas Copa, Nike Tiempo Legend, Mizuno Morelia, Puma King.
+
+#### Modelos de cuero:
+Adidas Copa, Nike Tiempo Legend, Puma King, Mizuno Morelia, Mizuno Rebula.
+
 
 ### Características que se pueden encontrar en un botín:
 
 - **_Materiales_**: Sobretodo en la carcasa, las rugosidades del exterior, suela e interior del botín.
-    + _Carcasa_: Hoy en día la mayoría de los fabricantes hacen botines con mezcla de tejidos de hilos sintéticos que van desarrollando con las diferentes tecnologías que se aplican al botín, sobre este tejido (knit) suelen aplicarle un recubrimiento con una capa de material sintético adherente, rugoso y/o impermeable. Aunque todavía las marcas tienen modelos de cuero ya que da un agarre y comfort al pie y sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar.
+    + _Carcasa_: Hoy en día la mayoría de los fabricantes hacen botines con mezcla de tejidos de hilos sintéticos que van desarrollando con las diferentes tecnologías que se aplican al botín, sobre este material suelen aplicarle un recubrimiento con una capa de material sintético adherente, rugoso y/o impermeable. Aunque todavía las marcas tienen modelos de cuero ya que da un agarre y comfort al pie y sensación de contacto con la pelota que los materiales sintéticos aún no han podido igualar.
   
     Hay que tener en cuenta que los **_Botines de cuero_** requieren más cuidados que los de materiales sintéticos. Hay que mantenerlos limpios, engrasarlos o incluso ponerles una horma. Hoy en día el mejor cuero para botines es el de canguro por tener mayor cantidad de fibras por cm<sup>2</sup>.
     
@@ -55,14 +75,6 @@ A modo general las grandes marcas se enfocan en 4 tipos de botines.
 
 [![Tipos de suela](https://img.youtube.com/vi/_ZYNtP9ycz0/sddefault.jpg)](https://youtu.be/_ZYNtP9ycz0)
 
-### Modelos para pies anchos:
-Adidas Copa, Adidas X, Nike Phantom, Nike Tiempo Legend, Puma Future, Puma One, Mizuno Rebula, New Balance Tekela.
-
-### Modelos para pies angostos:
-Adidas Predator, Nike Mercurial, Mizuno Morelia Neo, New Balance Furón, Umbro Accuro.
-
-### Modelos de cuero:
-Adidas Copa, Nike Tiempo Legend, Puma King, Mizuno Morelia, Mizuno Rebula.
 
 ---
 
