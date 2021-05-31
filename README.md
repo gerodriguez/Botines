@@ -14,7 +14,7 @@ Información recopilada sobre botines de fútbol de hoy en día. _`marzo/2021`_
 ## General
 A la hora de elegir un botín debemos tener en cuenta algunas cosas:
 - [Horma](#Horma).
-- [Tipo de botín](#Tipo de botín).
+- [Tipo de botín](#Tipo-de-botín).
 - Superficie sobre la que se van a usar.
 
 [Adidas](#Adidas), [Nike](#Nike) y [Puma](#Puma) y [Mizuno](#Mizuno) dividen sus botines en Gamas. Adidas tiene 5 gamas, Nike y Puma tienen 4 y Mizuno tiene 3 gamas.
@@ -30,10 +30,10 @@ Para elegir un botín deberemos optar entre 4 cosas:
 ## Horma
 Existen botines para pies angostos y otros para pies anchos.
 
-### Modelos para pies anchos:
+- **Modelos para pies anchos:**
 Adidas Copa, Adidas X, Nike Phantom, Nike Tiempo Legend, Puma Future, Puma One, Mizuno Rebula, New Balance Tekela.
 
-### Modelos para pies angostos:
+- **Modelos para pies angostos:**
 Adidas Predator, Nike Mercurial, Mizuno Morelia Neo, New Balance Furón, Umbro Accuro.
 
 ### Tipo de botín:
@@ -62,14 +62,14 @@ Adidas Copa, Nike Tiempo Legend, Puma King, Mizuno Morelia, Mizuno Rebula.
 - **_Tapones_**: Pueden ser laminádos, al tener forma triangular éstos facilitan la tracción hacia adelante a la hora de arrancar. También existen en forma de triada (o flecha) como en las mercurial, o semicónicos como en las Phantom VSN.
 - **_Suelas_**: Suelen ser muy "reactivas" (firmes) y dan mayor facilidad a la flexión y extensión del metatarso, siendo más firme del medio hacia atrás. Algunas son modulares (tienen 2 partes que la hacen más liviana), una adelante y otra atrás unidos por un "puente estabilizador" o "espina dorsal" que garantiza la correcta flexión del botín (debe flexar en el metatarso). También están las que vienen con tratamientos "anticlog" para que el pasto o barro no se le adhiera permitiendo mantener los tapones seimpre liberados.
 
-  Tipos de Suelas:
+  **Tipos de Suelas**:
     Suela Magista: Modelo de suela famoso por sus tapones laminados o semicónicos con una zona de rotación en forma circular.
 
     + **SG**: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales, suelen tener tapones intercambiables.
       - MXSG: _MIXED SOFT GROUND_. Tapones mixtos, tiene tapones fijos FG y tapones intercambiables. Para césped natural suave, mojado o embarrado.
+    + **FG**: _FIRM GROUND_. Para césped natural duro o pasto sintético de 2da gen. blandos o 3ra gen. Buena para el jugador amateur que juega en varias superficies. Tiene tapones bajos.
     + **AG**: _ARTIFICIAL GROUND_. Para pasto sintético largo de 3ra gen o cesped natural. Tiene tapones medianos cónicos con un orificio en el centro. En un sintético de 1ra gen serían incómodos.
-    + **FG**: _FIRM GROUND_. Para pasto sintético de 2da gen blandos o 3ra gen. o cesped natural duro, incluso cachas de tierra. Buena para el jugador amateur que juega en varias superficies. Tiene tapones bajos.
-    + **MG**: _MULTIPLE GROUND_. Para multiples superficies. Pasto sintético, césped natural duro o tierra.
+    + **MG**: _MULTIPLE GROUND_. Para múltiples superficies. Pasto sintético, césped natural duro o tierra. También tiene tapones bajos, pero son cónicos y más resistentes.
     + **TF**: _TURF_. Para pasto sintético corto tipo alfombra 1ra gen. o 2da gen. duros, también se puede usar en piso. Tienen en la suela muchos puntos de contacto con el piso (pequeños tapones).
     + **IC/IN**: _INDOOR_. Suela semi-lisa para parqué, baldoza o cemento pintado, piso liso, es la típica suela de futsal.
 
@@ -96,7 +96,9 @@ Adidas pone nombre a su versión según el año en que salieron a la venta esos 
 + **_Predator_**: Botín armado de golpeo. Tienen como característica principal el buen grip en contacto con la Pelota. Desde la versión 20 vienen recubiertos con DemonSkin. En la versión "Freak"(2021) el collar es de 2 piezas. Suela modular con tapones semicónicos. Para pies angostos.
 + **_Copa_**: Modelo de estilo clásico con grandes avances de diseño. Carcasa de cuero y PrimeKnit. Gran comfort. Suela de tapones cónicos. Para pies anchos.
   + **_Copa Sense_**: Tienen zonas en el upper con Touch Pods para mejorar el control de la pelota. En la zona del interior del talón tienen Sense Pods.
-+ **_Copa Mundial_**: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). De las más pesadas. Para pies anchos.
+  + **_Copa Mundial_**: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). De las más pesadas. Para pies anchos.
+
++ **_PredCopX_**: Combina las tecnologías de Copa, Predator y X. tienen carcasa de cuero símil Copa Sense, tienen el DemonSkin de los Predator y tienen la suela de los X.
 
 + **_Messi_**: 
 + **_F50_**: 
