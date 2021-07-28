@@ -1,7 +1,7 @@
 
 
 # Botines de fútbol
-Información recopilada sobre botines de fútbol de hoy en día. _`marzo/2021`_
+Información recopilada sobre botines de fútbol de hoy en día. _`julio/2021`_
 
 ## Diccionario:
 - Upper: Parte de arriba del botín que cubre principalmente el empeine y parte superior del pie.
