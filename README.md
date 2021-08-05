@@ -5,7 +5,7 @@ Información recopilada sobre botines de fútbol de hoy en día. _`julio/2021`_
 
 ## Diccionario:
 - Upper: Parte de arriba del botín que cubre principalmente el empeine y parte superior del pie.
-- Knit: Superficie confeccionada por una sola pieza tejida digitalmente. Ésto permite configurar la ligereza, flexibilidad, porosidad, rugosidad, etc. de las superficies mediante el uso de hilos de distintos materiales, conservando una única pieza. Se usa en la zona externa del botín. La de Adidas se llama PrimeKnit, la de Nike FlyKnit y la de Puma EvoKnit.
+- Knit: Superficie textil confeccionada por una sola pieza tejida digitalmente. Ésto permite configurar la ligereza, flexibilidad, porosidad, rugosidad, etc. de las superficies mediante el uso de hilos de distintos materiales, conservando una única pieza. Se usa en la zona externa del botín. La de Adidas se llama PrimeKnit, la de Nike FlyKnit y la de Puma EvoKnit.
 - Grip: Poder de agarre o fricción.
 - Fit: Ajuste del pie dentro del botín.
 - Roll Over: Cuando el pie se desplaza dentro del botín. Sobretodo al frenar de costado y arrancar. Tiene relación con el ajuste y soporte lateral que ofrece el botín.
@@ -66,11 +66,11 @@ Adidas Copa, Copa Mundial, Copa Sense, Nike Tiempo Legend, Puma King, Mizuno Mor
   **Tipos de Suelas**:
     Suela Magista: Modelo de suela famoso por sus tapones laminados o semicónicos con una zona de rotación en forma circular.
 
-    + **SG**: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales, suelen tener tapones intercambiables.
-      - MXSG: _MIXED SOFT GROUND_. Tapones mixtos, tiene tapones fijos FG y tapones intercambiables. Para césped natural suave, mojado o embarrado.
+    + **SG**: _SOFT GROUND_. Para césped natural suave, mojado o embarrado. Tiene tapones más largos, como los de los futbolistas profesionales, suelen tener menos cantidad de tapones (6 u 8) y ser intercambiables.
+      - MXSG: _MIXED SOFT GROUND_. Tapones mixtos, tiene tapones fijos FG y 6 tapones intercambiables. Para césped natural suave, mojado o embarrado.
     + **FG**: _FIRM GROUND_. Para césped natural duro o pasto sintético de 2da gen. blandos o 3ra gen. Buena para el jugador amateur que juega en varias superficies. Tiene tapones bajos.
-    + **AG**: _ARTIFICIAL GRASS_. Para pasto sintético largo de 3ra gen o cesped natural. Tiene tapones medianos cónicos con un orificio en el centro. En un sintético de 1ra gen serían incómodos.
-    + **MG**: _MULTIPLE GROUND_. Para múltiples superficies. Pasto sintético, césped natural duro o tierra. También tiene tapones bajos, pero son cónicos y más resistentes.
+    + **AG**: _ARTIFICIAL GRASS_. Para pasto sintético largo de 3ra gen o cesped natural. Tiene tapones medianos cónicos con un orificio en el centro de cada tapón y mayor cantidad de tapones que la FG. En un sintético de 1ra gen serían incómodos.
+    + **MG**: _MULTIPLE GROUND_. Para múltiples superficies. Pasto sintético, césped natural duro o tierra. También tiene tapones bajos, pero son cónicos y más resistentes. Tiene mayor cantidad de tapones que la FG.
     + **TF**: _TURF_. Para pasto sintético corto tipo alfombra 1ra gen. o 2da gen. duros, también se puede usar en piso. Tienen en la suela muchos puntos de contacto con el piso (pequeños tapones).
     + **IC/IN**: _INDOOR_. Suela semi-lisa para parqué, baldoza o cemento pintado, piso liso, es la típica suela de futsal.
 
@@ -84,9 +84,9 @@ Adidas Copa, Copa Mundial, Copa Sense, Nike Tiempo Legend, Puma King, Mizuno Mor
 Adidas tiene 5 gamas. De mayor a menor: +, .1, .2, .3, .4
 
 Pone nombre a su versión según el año en que salieron a la venta esos botines, por ej. **20+** para los modelos del año 2020 y de la gama más alta **(+)**, le siguen 20.1 a 20.4 y así con las diferentes versiones de cada modelo.
-  Las gamas + (plus) suelen venir sin cordones (laceless).
+  Las gamas + (plus) suelen venir sin cordones (laceless), aunque ultimamente también se pueden encontrar modelos con gamas .3 laceless.
 
-- _PrimeKnit_: Tela cosida semi elástica.
+- _PrimeKnit_: Tela tejida semi elástica.
 - FluroSkin: 
 - FusionSkin: 
 - _DemonSkin_: Recubrimiento en forma de escamas o pinchos de un material rugoso en la zona del Upper que aporta buen grip con la pelota.
@@ -95,11 +95,11 @@ Pone nombre a su versión según el año en que salieron a la venta esos botines
 
 ### Modelos:
 + **_Adidas X_**: Botín de velocidad, son muy livianos y su carcasa es de las más delgadas del mercado dando cierta sensación de jugar descalzo. Su suela es muy reactiva, tiene fibra de carbono y tiene tapones laminádos. Diseñados para empeines altos. Para pies anchos.
-  + **_X SpeedFlow_**: (Mayo/2021) Las que actualmente usa Messi. La gama plus está confeccionada completamente en Primeknit.
+  + **_X SpeedFlow_**: (Mayo/2021) Las que actualmente usa Messi. La gama plus está confeccionada completamente en Primeknit, aunque las gamas que le siguen son de microfibra sintética.
 + **_Némeziz_**: Botín de control. Son las que usaba Messi. Totalmente sintéticas. Desde la versión 19, mejoró mucho el grip con la pelota. Tecnología Agitity banded que brinda mejor compresión y ajuste sobre el empeine. Suela modular de tapones cónicos/ovalados.
 + **_Predator_**: Botín armado, de golpeo. Tienen como característica principal el buen grip en contacto con la Pelota. Desde la versión 20 vienen recubiertos con DemonSkin. En la versión "Freak"(2021) el collar es de 2 piezas. Suela modular con tapones semicónicos. Para pies angostos.
 + **_Copa_**: Modelo de estilo clásico con grandes avances de diseño. Carcasa de cuero y PrimeKnit. Gran comfort. Suela de tapones cónicos. Para pies anchos.
-  + **_Copa Sense_**: Tienen zonas en el upper con Touch Pods para mejorar el control de la pelota. En la zona del interior del talón tienen Sense Pods.
+  + **_Copa Sense_**: (2021) Tienen zonas en el upper con Touch Pods para mejorar el control de la pelota. En la zona del interior del talón tienen Sense Pods.
   + **_Copa Mundial_**: Es el modelo más clásico, hechos de cuero. Comfort. Suela de tapones cónicos (clásicos). De las más pesadas. Para pies anchos.
 
 + **_PredCopX_**: Combina las tecnologías de Copa, Predator y X. Tienen carcasa de cuero símil Copa Sense, el DemonSkin de los Predator y la suela de los X.
@@ -170,7 +170,7 @@ Las versiones dependen de cada modelo.
 ### Modelos:
 + **_Future Z_**: Botín de control. Son los que usa Neymar. Fitzone en el medio del Botín. Suela modular con espina dorsal cruzada bastante rígida, con tapones semicónicos. Buen grip con la pelota. Cómodas. Suela FG/AG.
 + **_Ultra_**: Botín de velocidad. Upper de microfibra. Reemplazan a Puma One. Son los que usa Agüero y Griezmann. 3 modelos de upper: Hilo, sintetico o cuero.
-  - **_Ultra ST_**: Carcasa increíblemente fina y ultralivianas, se siente como jugar descalzo. Las más finas del mercado. Menor ajuste, contención, grip y suela menos reactiva que las Ultra.
+  - **_Ultra ST_**: Edición especial. Carcasa increíblemente fina y ultralivianas, se siente como jugar descalzo. Las más finas del mercado. Menor ajuste, contención, grip y suela menos reactiva que las Ultra.
 + **_Future_**: Botín armado. Buen grip con la pelota. Para pies anchos.
 + **_King_**: Modelo Clásico. Tapones cónicos. De cuero. Lengueta de Knit.
 
@@ -197,7 +197,7 @@ Las versiones dependen de cada modelo.
 ## Mizuno
 
 Mizuno maneja 3 gamas. De mayor a menor: MADE IN JAPAN, MD, KL MD.
-Las versuones dependen de cada modelo.
+Las versiones dependen de cada modelo. Actualmente Morelia Neo 3 Beta, Rebula Cup 2.
 
 Se considera que Mizuno tiene el mejor cuero del mercado para botines.
 
@@ -221,7 +221,7 @@ Se considera que Mizuno tiene el mejor cuero del mercado para botines.
 ## New Balance
 
 + **_Furón_**: Botín de velocidad, placa de suela muy rígida (la más rígida del mercado). Para pies angostos.
-+ **_Tekela_**: Botín de control. Recubrimiento de líneas de silicona para mejor grip. Buen interior. Tapones cónicos. tiene muy buenos Reviews. Para pies anchos.
++ **_Tekela_**: Botín de control. Carcasa hecha en knit. Recubrimiento de líneas de silicona para mejor grip. Buen interior. Tapones cónicos. tiene muy buenos Reviews. Para pies anchos.
 
 ---
 
